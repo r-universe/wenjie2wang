@@ -1,0 +1,34 @@
+[
+  {
+    "package": "abclass",
+    "oncran": true
+  },
+  {
+    "package": "clusrank",
+    "oncran": true
+  },
+  {
+    "package": "dynsurv",
+    "oncran": true
+  },
+  {
+    "package": "intsurv",
+    "oncran": true
+  },
+  {
+    "package": "jds.rmd",
+    "oncran": true
+  },
+  {
+    "package": "reda",
+    "oncran": true
+  },
+  {
+    "package": "splines2",
+    "oncran": true
+  },
+  {
+    "package": "touch",
+    "oncran": true
+  }
+]
