@@ -13,6 +13,11 @@
 	url = https://github.com/wenjie2wang/clusrank
 	shallow = true
 	registered = true
+[submodule "dynsurv"]
+	path = dynsurv
+	url = https://github.com/wenjie2wang/dynsurv
+	shallow = true
+	registered = true
 [submodule "intsurv"]
 	path = intsurv
 	url = https://github.com/wenjie2wang/intsurv
