@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "dynsurv",
-    "oncran": true
-  },
-  {
     "package": "intsurv",
     "oncran": true
   },
