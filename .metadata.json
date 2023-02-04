@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "formatBibtex",
+    "oncran": true
+  },
+  {
     "package": "intsurv",
     "oncran": true
   },

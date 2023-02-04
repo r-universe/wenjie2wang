@@ -18,6 +18,11 @@
 	url = https://github.com/wenjie2wang/dynsurv
 	shallow = true
 	registered = true
+[submodule "formatBibtex"]
+	path = formatBibtex
+	url = https://github.com/wenjie2wang/formatbibtex
+	shallow = true
+	registered = true
 [submodule "intsurv"]
 	path = intsurv
 	url = https://github.com/wenjie2wang/intsurv
