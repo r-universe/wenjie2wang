@@ -1,14 +1,6 @@
 [
   {
-    "package": "abclass",
-    "oncran": true
-  },
-  {
     "package": "clusrank",
-    "oncran": true
-  },
-  {
-    "package": "dynsurv",
     "oncran": true
   },
   {
@@ -16,7 +8,15 @@
     "oncran": true
   },
   {
-    "package": "intsurv",
+    "package": "dynsurv",
+    "oncran": true
+  },
+  {
+    "package": "reda",
+    "oncran": true
+  },
+  {
+    "package": "abclass",
     "oncran": true
   },
   {
@@ -24,7 +24,7 @@
     "oncran": true
   },
   {
-    "package": "reda",
+    "package": "intsurv",
     "oncran": true
   },
   {
