@@ -1,10 +1,10 @@
 [
   {
-    "package": "clusrank",
+    "package": "abclass",
     "oncran": true
   },
   {
-    "package": "formatBibtex",
+    "package": "clusrank",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "reda",
+    "package": "formatBibtex",
     "oncran": true
   },
   {
-    "package": "abclass",
+    "package": "intsurv",
     "oncran": true
   },
   {
@@ -24,7 +24,7 @@
     "oncran": true
   },
   {
-    "package": "intsurv",
+    "package": "reda",
     "oncran": true
   },
   {

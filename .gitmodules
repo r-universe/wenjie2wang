@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "abclass"]
+	path = abclass
+	url = https://github.com/wenjie2wang/abclass
+	shallow = true
+	registered = true
 [submodule "clusrank"]
 	path = clusrank
 	url = https://github.com/wenjie2wang/clusrank
-	shallow = true
-	registered = true
-[submodule "formatBibtex"]
-	path = formatBibtex
-	url = https://github.com/wenjie2wang/formatbibtex
 	shallow = true
 	registered = true
 [submodule "dynsurv"]
@@ -18,14 +18,14 @@
 	url = https://github.com/wenjie2wang/dynsurv
 	shallow = true
 	registered = true
-[submodule "reda"]
-	path = reda
-	url = https://github.com/wenjie2wang/reda
+[submodule "formatBibtex"]
+	path = formatBibtex
+	url = https://github.com/wenjie2wang/formatbibtex
 	shallow = true
 	registered = true
-[submodule "abclass"]
-	path = abclass
-	url = https://github.com/wenjie2wang/abclass
+[submodule "intsurv"]
+	path = intsurv
+	url = https://github.com/wenjie2wang/intsurv
 	shallow = true
 	registered = true
 [submodule "jds.rmd"]
@@ -33,9 +33,9 @@
 	url = https://github.com/wenjie2wang/jds.rmd
 	shallow = true
 	registered = true
-[submodule "intsurv"]
-	path = intsurv
-	url = https://github.com/wenjie2wang/intsurv
+[submodule "reda"]
+	path = reda
+	url = https://github.com/wenjie2wang/reda
 	shallow = true
 	registered = true
 [submodule "splines2"]
